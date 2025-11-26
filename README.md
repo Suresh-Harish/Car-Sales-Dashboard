@@ -29,5 +29,5 @@ This project is a fully interactive Power BI dashboard designed to analyze BMW c
 - Region-wise Quantity Sold (Asia, Europe, Africa, Middle East, etc.)
 - Color-wise Sales Distribution
 
-🔹 Tools Used
-Power BI Desktop
+## Tools Used
+- Power BI Desktop
